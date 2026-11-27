@@ -25,12 +25,12 @@ body{
     letter-spacing: 0.04em;
     margin-bottom: 1.5rem;
     color: #212529;
-    font-size: 20px;
+    font-size: 36px;
     font-style: bold;
 }
 
 .hero-text h2{
-    font-size: 18px;
+    font-size: 30px;
     font-style: italic;
 }
 
